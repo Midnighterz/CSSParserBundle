@@ -16,12 +16,6 @@
         "symfony/framework-bundle": "~2.1",
         "symfony/form": "~2.1"
     },
-    "require-dev": {
-        "twig/twig": "~1.5",
-        "doctrine/doctrine-bundle": "*",
-        "symfony/yaml": "~2.1",
-        "symfony/validator": "~2.1"
-    },
     "autoload": {
         "psr-0": { "Midnighter\\CSSParserBundle": "" }
     },
