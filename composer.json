@@ -1,5 +1,5 @@
 {
-    "name": "midnighter/css-parser-bundle",
+    "name": "midnighterz/css-parser-bundle",
     "type": "symfony-bundle",
     "description": "Symfony MidnighterCSSParserBundle",
     "keywords": ["CSS parsing","LTR to RTL"],
